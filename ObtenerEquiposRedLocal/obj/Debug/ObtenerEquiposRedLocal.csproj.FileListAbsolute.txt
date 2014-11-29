@@ -1,0 +1,9 @@
+c:\users\francisco\documents\visual studio 2012\Projects\ObtenerEquiposRedLocal\ObtenerEquiposRedLocal\bin\Debug\ObtenerEquiposRedLocal.exe.config
+c:\users\francisco\documents\visual studio 2012\Projects\ObtenerEquiposRedLocal\ObtenerEquiposRedLocal\bin\Debug\ObtenerEquiposRedLocal.exe
+c:\users\francisco\documents\visual studio 2012\Projects\ObtenerEquiposRedLocal\ObtenerEquiposRedLocal\bin\Debug\ObtenerEquiposRedLocal.pdb
+c:\users\francisco\documents\visual studio 2012\Projects\ObtenerEquiposRedLocal\ObtenerEquiposRedLocal\obj\Debug\ObtenerEquiposRedLocal.csprojResolveAssemblyReference.cache
+c:\users\francisco\documents\visual studio 2012\Projects\ObtenerEquiposRedLocal\ObtenerEquiposRedLocal\obj\Debug\ObtenerEquiposRedLocal.Form1.resources
+c:\users\francisco\documents\visual studio 2012\Projects\ObtenerEquiposRedLocal\ObtenerEquiposRedLocal\obj\Debug\ObtenerEquiposRedLocal.Properties.Resources.resources
+c:\users\francisco\documents\visual studio 2012\Projects\ObtenerEquiposRedLocal\ObtenerEquiposRedLocal\obj\Debug\ObtenerEquiposRedLocal.csproj.GenerateResource.Cache
+c:\users\francisco\documents\visual studio 2012\Projects\ObtenerEquiposRedLocal\ObtenerEquiposRedLocal\obj\Debug\ObtenerEquiposRedLocal.exe
+c:\users\francisco\documents\visual studio 2012\Projects\ObtenerEquiposRedLocal\ObtenerEquiposRedLocal\obj\Debug\ObtenerEquiposRedLocal.pdb
